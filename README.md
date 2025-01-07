@@ -21,7 +21,6 @@ This project implements a multi-agent system that leverages artificial intellige
 ## 🛠️ Technologies Used
 
 - Python
-- Natural Language Processing (NLP)
 - Multi-agent AI Architecture
 - Financial APIs Integration
 
